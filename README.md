@@ -1,10 +1,10 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E16AQFtLLITHPFfPg/profile-displaybackgroundimage-shrink_350_1400/0/1680192814350?e=1699488000&v=beta&t=KzEFqr3Sn61t9NnyKUN0a_Czlo6ObGqSQmb7K8jiS9o)
-<h1 align="center">Hi 👋, I'm Sunlama</h1>
-<h3 align="center">I am Web developer, Fivem as well as Motion Designer and Graphic Designer</h3>
+<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h3 align="center">I'm a young French developer on an apprenticeship scheme</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BurgerDevWFG&label=Profile%20views&color=0e75b6&style=flat" alt="BurgerDevWFG" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunlama0&label=Profile%20views&color=0e75b6&style=flat" alt="Sunlama0" /> </p>
 
 
 - 🔭 I’m currently working on **a Weelyt Agency**
