@@ -27,6 +27,6 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sunlama0&show_icons=true&locale=en&theme=tokyonight" alt="Sunlama0" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sunlama0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sunlama0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sunlama0&show_icons=true&locale=en&theme=tokyonight" alt="Sunlama0" /></p>
 
