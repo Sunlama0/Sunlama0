@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunlama0&label=Profile%20views&color=0e75b6&style=flat" alt="Sunlama0" /> </p>
 
 
-- 🔭 I’m currently working on **a Weelyt Agency**
+- 🔭 I currently work **in Cyber Security**
 
-- 🌱 I’m currently learning progress in **JavaScript, SQL, React, Laravel & Vue.js**
+- 🌱 I’m currently learning progress in **JavaScript, SQL, React & Laravel**
 
 - 📫 How to reach me **lucas.aveline@la-services.fr**
 
