@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E16AQFtLLITHPFfPg/profile-displaybackgroundimage-shrink_350_1400/0/1680192814350?e=1699488000&v=beta&t=KzEFqr3Sn61t9NnyKUN0a_Czlo6ObGqSQmb7K8jiS9o)
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I'm a young French developer on an apprenticeship scheme</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +10,7 @@
 
 - 🌱 I’m currently learning progress in **JavaScript, SQL, React & Laravel**
 
-- 📫 How to reach me **lucas.aveline@la-services.fr**
+- 📫 How to reach me **lucasaveline09@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
