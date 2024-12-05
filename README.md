@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunlama0&label=Profile%20views&color=0e75b6&style=flat" alt="Sunlama0" /> </p>
 
 
-- 🔭 I currently work **in Cyber Security**
+- 🔭 Currently, I work in the domain of **Cyber Security**
 
-- 🌱 I’m currently learning progress in **JavaScript, SQL, React & Laravel**
+- 🌱 Currently I am working on **JavaScript, SQL, React & Laravel**
 
-- 📫 How to reach me **lucasaveline09@gmail.com**
+- 📫 To reach me --> **lucasaveline09@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
