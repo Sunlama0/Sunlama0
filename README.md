@@ -24,6 +24,11 @@ Fondateur de **[NexSecure](https://nexsecure.fr/)**, j’accompagne aussi les en
 
 ## À explorer
 
+### [Kyzora](https://app.kyzora.com/)
+Une plateforme web dédiée aux opérations des entreprises : **Kyzora — Business Operations OS**.
+
+[Découvrir l’application](https://app.kyzora.com/)
+
 ### [CarbonTrack](https://github.com/Sunlama0/carbontrack-hackaton)
 Projet collectif réalisé au hackathon Capgemini × Sup de Vinci : une application web et mobile pour analyser l’empreinte carbone de sites physiques.
 
