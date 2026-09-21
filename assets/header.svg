@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Lucas Aveline — Développer. Connecter. Faire avancer.</title><desc id="desc">Coordinateur de projets IT et fondateur de NexSecure. Développement, automatisation et cybersécurité.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1221"/><stop offset="1" stop-color="#172c4a"/></linearGradient><linearGradient id="blue"><stop stop-color="#8bb6ff"/><stop offset="1" stop-color="#64e0cd"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#91b8f5" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="440" rx="24" fill="url(#bg)"/><rect width="1200" height="440" rx="24" fill="url(#grid)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<circle cx="58" cy="52" r="5" fill="#64e0cd"/><text x="74" y="57" fill="#a8bdd9" font-size="12" letter-spacing="2">LUCAS AVELINE / SUNLAMA0</text>
+<text x="52" y="142" fill="#f1f5ff" font-size="57" font-weight="700" letter-spacing="-2">Développer. Connecter.</text>
+<text x="52" y="209" fill="url(#blue)" font-size="57" font-weight="700" letter-spacing="-2">Faire avancer.</text>
+<text x="54" y="258" fill="#bac9de" font-size="19">Coordinateur de projets IT · Fondateur de NexSecure</text>
+<path d="M54 302H706" stroke="#324660"/>
+<text x="54" y="339" fill="#e2ebfa" font-size="14" letter-spacing="1">DÉVELOPPEMENT</text><text x="249" y="339" fill="#64e0cd" font-size="14">/</text><text x="279" y="339" fill="#e2ebfa" font-size="14" letter-spacing="1">AUTOMATISATION</text><text x="475" y="339" fill="#64e0cd" font-size="14">/</text><text x="505" y="339" fill="#e2ebfa" font-size="14" letter-spacing="1">CYBERSÉCURITÉ</text>
+<text x="54" y="399" fill="#829bbd" font-size="13">PARIS, FRANCE</text><text x="706" y="399" fill="#829bbd" font-size="13" text-anchor="end">DU BESOIN MÉTIER À LA SOLUTION.</text>
+<g transform="translate(925 219)"><circle r="153" fill="none" stroke="#769ed7" stroke-opacity=".15"/><circle r="115" fill="none" stroke="#769ed7" stroke-opacity=".2" stroke-dasharray="3 9"/><path d="M-86-88 90-64 111 83-83 99Z M-86-88 0 0 111 83 M90-64 0 0-83 99" fill="none" stroke="#6e9edc" stroke-opacity=".4"/><rect x="-56" y="-56" width="112" height="112" rx="28" fill="#1a3557" stroke="#6997d3"/><text x="0" y="14" text-anchor="middle" fill="#c4daff" font-size="43" font-weight="600">&lt;/&gt;</text><g fill="#12253d" stroke="#6a93c8"><rect x="-110" y="-112" width="48" height="48" rx="14"/><rect x="66" y="-88" width="48" height="48" rx="14"/><rect x="87" y="59" width="48" height="48" rx="14"/><rect x="-107" y="75" width="48" height="48" rx="14"/></g><g fill="#8bb6ff"><circle cx="-86" cy="-88" r="7"/><circle cx="90" cy="-64" r="7"/></g><g fill="#64e0cd"><circle cx="111" cy="83" r="7"/><circle cx="-83" cy="99" r="7"/></g></g>
+</g></svg>

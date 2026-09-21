@@ -1,30 +1,84 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">I'm a young French developer on an apprenticeship scheme</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a href="https://lucasaveline.fr/">
+  <img src="assets/header.svg" width="1200" alt="Lucas Aveline — Développer. Connecter. Faire avancer. Coordinateur de projets IT et fondateur de NexSecure.">
+</a>
 
+<p align="center">
+  <a href="https://lucasaveline.fr/"><strong>Portfolio ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://nexsecure.fr/"><strong>NexSecure ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/lucas-aveline/"><strong>LinkedIn ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://lucasaveline.fr/pages/contact.html"><strong>Me contacter ↗</strong></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunlama0&label=Profile%20views&color=0e75b6&style=flat" alt="Sunlama0" /> </p>
+<br>
 
+## La technique au service des usages.
 
-- 🔭 I work in the domain of **Cyber Security**
+Je suis **Lucas Aveline**, coordinateur de projets informatiques et fondateur de **[NexSecure](https://nexsecure.fr/)**. Je relie les besoins métiers à la technique : applications web, automatisation, cybersécurité et data.
 
-- 🌱 Currently I am working on **JavaScript, SQL, React & Laravel**
+J’aime construire des solutions utiles, comprendre leur fonctionnement de bout en bout et accompagner leur adoption. De l’analyse du besoin au déploiement, je garde le même objectif : **simplifier le quotidien avec des outils fiables et sécurisés.**
 
-- 📫 To reach me --> **lucasaveline09@gmail.com**
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>01 / Développer</h3>
+Applications métiers, CRM, interfaces d’administration et intégrations API.
+<br><br>
+<code>Laravel</code> <code>Node.js</code><br>
+<code>TypeScript</code> <code>JavaScript</code>
+</td>
+<td width="33%" valign="top">
+<h3>02 / Automatiser</h3>
+Workflows, scripts et données pour réduire les tâches répétitives.
+<br><br>
+<code>Python</code> <code>PowerShell</code><br>
+<code>Power Automate</code> <code>Power Apps</code>
+</td>
+<td width="33%" valign="top">
+<h3>03 / Sécuriser</h3>
+Identités, accès, infrastructures et sensibilisation des utilisateurs.
+<br><br>
+<code>Entra ID</code> <code>MFA / SSO</code><br>
+<code>Microsoft 365</code> <code>Cloudflare</code>
+</td>
+</tr>
+</table>
 
+## En ce moment
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+- **Projets IT transverses** : cybersécurité, automatisation, développement et data, en lien avec les équipes métiers.
+- **NexSecure** : conception d’applications et d’outils sur mesure, de l’architecture à la mise en production.
+- **Sup de Vinci** : parcours en direction de projets informatiques, après une spécialisation en développement.
+- **Data & BI** : SQL, Snowflake et Power BI pour transformer les données en informations utiles.
 
+## Quelques points d’entrée
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sunlama0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sunlama0" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sunlama0&show_icons=true&locale=en&theme=tokyonight" alt="Sunlama0" /></p>
+| Projet | Ce que tu peux y découvrir |
+| :--- | :--- |
+| **[Portfolio 2026 ↗](https://lucasaveline.fr/)** | Mon parcours, mes réalisations, ma veille et des expériences interactives. **[Le code](https://github.com/Sunlama0/Portfolio-LA)** |
+| **[CarbonTrack ↗](https://github.com/Sunlama0/carbontrack-hackaton)** | Projet collectif de hackathon : empreinte carbone de sites physiques, avec une application web et mobile. `React` `Spring Boot` `PostgreSQL` |
+| **[Jeux & autres ↗](https://lucasaveline.fr/pages/jeux.html)** | Dix expériences à essayer : morpion, quiz, générateur de mots de passe et petites interfaces web. |
 
+<details>
+<summary><strong>Mon environnement technique</strong></summary>
+
+<br>
+
+| Domaine | Outils & technologies |
+| :--- | :--- |
+| Développement | Laravel · Node.js · JavaScript / TypeScript · Tailwind CSS · API REST |
+| Automatisation | Python · PowerShell · Power Apps · Power Automate |
+| Données | SQL · MongoDB · Snowflake · Power BI |
+| Identités & cloud | Microsoft 365 · Entra ID · MFA / SSO · Cloudflare |
+| Outils | Git · GitHub · Datadog |
+
+</details>
+
+<br>
+
+---
+
+### Une idée, un projet, un besoin métier ?
+
+Avec **[NexSecure](https://nexsecure.fr/)**, je conçois des solutions digitales pour sécuriser, automatiser et faire évoluer les opérations des entreprises.
+
+**[Parlons de ton projet ↗](https://lucasaveline.fr/pages/contact.html)** &nbsp; · &nbsp; [Découvrir mon parcours](https://lucasaveline.fr/pages/experiences.html)
